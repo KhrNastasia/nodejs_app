@@ -1,0 +1,42 @@
+.model {
+	position: absolute;
+	left: 40%;
+	top: 30%;
+	display: flex;
+	flex-direction: column;
+	padding: 60px;
+	/* border: 1px solid; */
+	border-radius: 10px;
+	background-color: white;
+	opacity: 1;
+}
+
+.input {
+	margin: 5px;
+	padding: 5px;
+}
+
+.back {
+	position: fixed;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-color: rgba(0, 0, 0, 0.5);
+	/* opacity: 0.4; */
+}
+
+.head {
+	display: flex;
+}
+
+.close {
+	margin: 0;
+	width: auto;
+	float: right;
+	cursor: pointer;
+}
+
+.displ {
+	display: none;
+}

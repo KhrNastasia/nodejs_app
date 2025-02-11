@@ -1,0 +1,21 @@
+.input {
+	margin: 5px;
+	padding: 5px;
+	flex: 5;
+}
+
+.form {
+	display: flex;
+}
+.label {
+	margin: 10px;
+	flex: 1;
+}
+
+.li {
+	margin: 10px;
+}
+
+.button {
+	flex: 2;
+}

@@ -1,0 +1,17 @@
+.input {
+	width: 100%;
+	margin: 10px;
+}
+
+.form {
+	float: left;
+	width: 100%;
+}
+.label {
+	margin: 10px;
+	width: 100%;
+}
+
+.button {
+	margin: 10px;
+}
