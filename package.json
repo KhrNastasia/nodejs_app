@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "mongodb": "^6.13.0",
+    "mongoose": "^8.10.0",
+    "mysql": "^2.18.1",
+    "react": "^19.0.0",
+    "react-beautiful-dnd": "^13.1.1",
+    "react-dom": "^19.0.0",
+    "react-modal": "^3.16.1",
+    "winston": "^3.17.0"
+  },
+  "name": "test-react-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
