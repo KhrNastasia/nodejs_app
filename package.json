@@ -1,14 +1,17 @@
 {
   "dependencies": {
     "body-parser": "^1.20.3",
-    "express": "^4.21.2",
+    "express": "^3.21.2",
     "mongodb": "^6.13.0",
     "mongoose": "^8.10.0",
+    "mssql": "^11.0.1",
     "mysql": "^2.18.1",
+    "mysql2": "^3.12.0",
     "react": "^19.0.0",
     "react-beautiful-dnd": "^13.1.1",
     "react-dom": "^19.0.0",
     "react-modal": "^3.16.1",
+    "sequelize": "^6.37.5",
     "winston": "^3.17.0"
   },
   "name": "test-react-app",
